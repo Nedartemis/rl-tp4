@@ -1,0 +1,9 @@
+ale-py
+gymnasium
+gymnasium[accept-rom-licesnse]
+gymnasium[atari]
+gymnasium[toy-text]
+imageio[pyav]
+moviepy
+pillow
+pygame
